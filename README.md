@@ -118,5 +118,5 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ### 💡 Author
 Developed by **Mohamad Aub**  
-📧 Contact: [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/MohamadAub)
+📧 Contact: [LinkedIn](https://www.linkedin.com/in/mohamad-el-ayoubi-48a3301b7/) | [GitHub](https://github.com/MohamadAub)
 
